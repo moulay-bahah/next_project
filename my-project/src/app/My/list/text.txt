@@ -1,0 +1,3 @@
+list de mes articles 
+lien vers add form
+=> my/details/1

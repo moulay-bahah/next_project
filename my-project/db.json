@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "ely@mail.com",
+      "password": "$2a$10$ZTEDfOz2hg61PaGMKG0rVeGv69kS/gwwywaMmOHbrEIaJTe/vbRyy",
+      "id": 1
+    },
+    {
+      "email": "moulay@email",
+      "password": "$2a$10$w7jYtweii7ymU.ETMysgTOBpEcNiWdK9XDM/C75WYN3WtyupkpbDK",
+      "id": 2
+    }
+  ],
+  "articles": [
+    {
+      "categorieId": 1,
+      "categorie": "vente",
+      "subcategorieId": 1,
+      "subcategorie": "voiture",
+      "options": {
+        "marque": 190,
+        "moteur": "disel"
+      },
+      "lieuId": 1,
+      "lieu": "nktt/teyaret",
+      "description": "belle voiture",
+      "prix": 400043,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "categorieId": 1,
+      "categorie": "vente",
+      "subcategorieId": 1,
+      "subcategorie": "voiture",
+      "options": {
+        "marque": 190,
+        "moteur": "disel"
+      },
+      "lieuId": 1,
+      "lieu": "nktt/teyaret",
+      "description": "belle voiture",
+      "prix": 400043,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "categorieId": 1,
+      "categorie": "vente",
+      "subcategorieId": 1,
+      "subcategorie": "voiture",
+      "options": {
+        "marque": 190,
+        "moteur": "disel"
+      },
+      "lieuId": 1,
+      "lieu": "nktt/teyaret",
+      "description": "belle voiture",
+      "prix": 400043,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
